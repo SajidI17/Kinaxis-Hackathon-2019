@@ -40,7 +40,7 @@ class Tile extends Sprite{ //core maze graphical and functional component
             case 2: imgPath = "www/img/tilesets/portal.png"; //portals
                     _collision = false;
                     break;
-            case 3: imgPath = "www/img/tilesets/heart.png"; //coin
+            case 3: imgPath = "www/img/tilesets/Heart.png"; //coin
                     _collision = false;
                     break;
             case 4: imgPath = "www/img/tilesets/end.png"; //end
