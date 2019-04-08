@@ -227,8 +227,8 @@ function frame() { // the function will be called every 10 miliseconds forever
         player.y = tempY;
     }
     if (oldCoins != coins) { //checks if the value of coins has changed then increases radius (temp fix due to coin counter being a bit off)
-      radiusTransparent += 5
-      radiusBlack += 5
+      radiusTransparent += 15
+      radiusBlack += 15
       oldCoins = coins
     }
 
