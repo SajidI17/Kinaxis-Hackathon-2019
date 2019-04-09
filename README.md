@@ -1,2 +1,1 @@
-# 0.2eM-etyB
-The game is 900 x 900 (There will be 30 blocks where every block is 30 x 30 pixels).
+This game was made along with other Byte Me 2.0 members which include the following: Yannick, Sajid, and Lizzie
